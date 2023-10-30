@@ -62,7 +62,7 @@ public class EmailCheck extends HttpServlet {
             out.print(e);
         }
         finally {
-            out.close();
+         //   out.close();
         }
     }
 
