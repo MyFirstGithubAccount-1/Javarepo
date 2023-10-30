@@ -68,9 +68,9 @@ public class XPathQuery extends HttpServlet {
         {
             out.print(e);
         }        
-        finally {
-            out.close();
-        }
+     //   finally {
+       //     out.close();
+      //  }
     }
 
     // <editor-fold defaultstate="collapsed" desc="HttpServlet methods. Click on the + sign on the left to edit the code.">
